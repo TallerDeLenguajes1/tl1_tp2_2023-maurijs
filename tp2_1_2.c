@@ -18,5 +18,8 @@ for(i = 0; i<N ; i++)
     printf("%f\n", *punt);
     punt++;
 }
+int x;
+int y;
+return 0; ///cambios para hacer merge
 }
 
