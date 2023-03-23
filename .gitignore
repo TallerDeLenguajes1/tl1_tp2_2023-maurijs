@@ -21,9 +21,7 @@
 .ionide
 
 ##archivos de texto ##
-*.md
 *.txt
-*.c
 *.exe
 *.obj
 *.tds
