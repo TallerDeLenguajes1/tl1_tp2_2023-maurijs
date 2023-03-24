@@ -1,1 +1,6 @@
-2 f) no puedo ver los archivos que no pertenezcan a la branch en la que estoy
+2 f) no puedo ver los archivos que no pertenezcan a la branch en la que estoy.
+
+Al hacer un commit en la rama opcion2 se genera un nuevo punto en la rama opcion2 en la grafica de historial de cambios.
+Al utilizar el comando git merge se unifica la rama opcion2 al main. Graficamente en el historial figura que la rama opcion2 se une a la
+rama del main.
+ 
