@@ -1,0 +1,1 @@
+2 f) no puedo ver los archivos que no pertenezcan a la branch en la que estoy
